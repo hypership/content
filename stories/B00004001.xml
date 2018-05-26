@@ -63,7 +63,7 @@ Derrière, s'élève un grand temple en terre cuite, aux formes tantôt arrondie
       Le spatioport, à l'architecture se voulant l'allégorie de la sobriétété, ne comporte ni tourelle, ni dôme, ni technologie apparente, ni lumière accueillante, ni aide à l'amerrisage, comme s'il s'agissait d'un des tous premiers spatioport construit.
     </description>
     <hooks>
-      <hook type="spatioport" />
+      <hook type="Zed\Engines\Content\Stories\Hooks\Spatioport" />
     </hooks>
     <choices>
       <choice goto="panorama">Quitter le spatioport</choice>
