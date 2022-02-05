@@ -55,7 +55,7 @@ Au nord, The Hole, une ancienne mine dont les mineurs évitent de parler.
       À l'arrière, un cratère évasé peut accueillir une trentaine de vaisseaux de taille modeste et de conception variée.
     </description>
     <hooks>
-      <hook type="Zed\Engines\Content\Stories\Hooks\Spatioport" />
+      <hook type="spatioport" />
     </hooks>
     <choices>
       <choice goto="panorama">Retourner en ville</choice>
